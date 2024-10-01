@@ -34,8 +34,8 @@ teams through automated data-driven solutions.
 ## Contacts
 
 - [Linkedin](http://linkedin.com/in/emanuelepanizio)
-- [Leetcode](https://leetcode.com/Lucot/)
-- [Kaggle](https://www.kaggle.com/emanuelepanizio)
+- [Email](mailto:locations.data.service@gmail.com)
+- [BlueSky](https://bsky.app/profile/lucot.bsky.social)
 
 
 Thank you for your visit, I look forward to connecting with you soon.
