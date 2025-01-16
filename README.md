@@ -13,7 +13,7 @@ teams through automated data-driven solutions.
 - **Programming Languages:** Python, Javascript, GO
 - **Artificial Intelligence:** Natural Language Processing, Named Entity Recognition, PyTorch, TensorFlow, DeepPavlov, LaserEmbeddings, scikit-learn
 - **Cloud Platforms:** AWS
-- **Data Processing:** Airflow, PySpark, Kafka, Kibana, Logstash, RabbitMQ, Pandas, SQLAlchemy
+- **Data Processing:** Airflow, Spark, Kafka, Logstash, RabbitMQ, Pandas, SQLAlchemy
 - **Database Systems:** Redis, Elasticsearch, PostgreSQL, MySQL
 - **DevOps Tools:** Docker, Swarm, Kubernetes, Jenkins, Puppet, Terraform, Ansible
 - **Web Development:** RESTful, WSGI, Flask, FastAPI, HTML, CSS
